@@ -163,7 +163,7 @@ ul.booking-time-list{
 
 /*==================== BOOKING FORM MODAL ====================*/
 .booking-modal{
-  width: 50%;
+  width: 40%;
   background: #fff;
   position: absolute;
   top: 0;
@@ -185,11 +185,11 @@ ul.booking-time-list{
   background-color: white;
   padding: 3%; 
   margin: auto;
-  height: 65vh;
+  height: 60vh;
   text-align: center;
 }
 .client-service select{
-  margin-left: 7%;
+  margin-left: 10%;
 }
 .client-notes h6{
   width: 100%;
